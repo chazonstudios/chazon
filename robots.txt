@@ -1,0 +1,15 @@
+# ==========================================
+# Chazon Studios Robots File
+# https://chazonstudios.pages.dev
+# ==========================================
+
+User-agent: *
+
+# Allow search engines to crawl the entire website
+Allow: /
+
+# Do not crawl unnecessary system files (optional)
+Disallow: /README.md
+
+# Sitemap location
+Sitemap: https://chazonstudios.pages.dev/sitemap.xml
