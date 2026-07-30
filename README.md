@@ -1,2 +1,0 @@
-# chazon
-OFFICIAL CHAZON WEBSITE
